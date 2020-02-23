@@ -1,0 +1,12 @@
+(Encode) 6111 => 0x6F5F
+(Encode) 340 => 0x4254
+(Encode) -2628 => 0x2B3C
+(Encode) -255 => 0x3E01
+(Encode) 7550 => 0x7A7E
+
+
+(Decode) ('0A', '0A') => -6902
+(Decode) ('00', '29') => -8151
+(Decode) ('3F', '0F') => -113
+(Decode) ('44', '00') => 512
+(Decode) ('5E', '7F') => 3967

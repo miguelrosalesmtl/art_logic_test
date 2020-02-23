@@ -1,0 +1,25 @@
+1. Tell us about something that you recently learned (or are currently learning). How do you approach
+learning a new skill?
+	ANSWER: I'm currently learning kubernetes more in depth, I tend to follow tutorials and read books.
+	When I get stuck you just approach the problem from a different angle. Persistance is the key IMHO.
+	I also like to teach or help others on their projects, in the long run it helps you to have a better
+	understanding.
+
+2. Describe the differences between projects you've been involved with (or seen) that have succeeded, and
+those that have not been successful.
+	ANSWER: I define success with customer satisfaction, the important thing is to keep the client happy. The important thing
+	is to keep a good communication between the customer and the team and involve as much as possible the stakeholders. I've seen a 100k+ failing project, a director took all the decisions without involving the clients. Developers litteraly had no communication for months with stakeholders. Eventually, he called a meeting and showed them the software everyone was disapointed. The project was then cancelled. On that fiscal year he didn't even want to ask for R&D tax credits because he would have to show paperwork he didn't even do. To sum up, organization and communication.
+
+
+3. The languages, tools, and technologies that we use as developers are always changing. What specific
+languages/frameworks/platforms should developers be learning now to be ready for the next few years?
+	ANSWER: Anything related to kubernetes really and distributed systems. Cloud services (Azure, GCE, AWS), Spark, Kafka, GraphQL, IBM Q. In terms of languages: Python, Kotlin, .NET Core. I think most technologies take on average 3 months of continous work to fully understand and be very comfortable with. That is also why that technologies can deprecate over night.
+
+4. Discuss the most effective team you've been a part of. What made it so? What was your role on the
+team?
+	ANSWER: It is hard to say. In general, I am quite good when dealing with clients understanding their needs and what is appropriate for them. I developed interfaces for electronic work orders with 2 other people. I was the person calling the meetings and dealing with the requirements I think I did really well.
+
+5. What specific approaches or techniques do you use in your code to make sure that it's bug-free and
+performant?
+	ANSWER: In theory it is impossible to have bug free code. When it comes to performance, I really focus on what is important for the customer and what he wants to achieve and try to think of the future. I don't care much about execution time of the code, unless it is a requirement or can be a source of problems when the system scales up, very fast code is not readable.
+My methods almost never go beyond 50 lines, I write tests, consult others, try to keep my code clean (no random/incomplete comments). 
